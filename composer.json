@@ -1,6 +1,6 @@
 {
     "name": "larakit/cmd-backup",
-    "description": "[Larakit] Набор инструментов для Laravel",
+    "description": "[Larakit] Artisan-команда для бэкапа текущей базы данных",
     "keywords": [
         "laravel 5",
         "backup",
