@@ -15,7 +15,7 @@
     ],
     "require": {
         "codeless/ziparchiveex": "*",
-        "larakit/lk-spa": "*"
+        "larakit/lk-boot": "*"
     },
     "autoload": {
         "psr-4": {
@@ -24,6 +24,5 @@
         "files": [
             "src/init.php"
         ]
-    },
-    "minimum-stability": "dev"
+    }
 }
