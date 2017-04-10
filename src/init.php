@@ -1,3 +1,3 @@
 <?php
 //регистрируем провайдеры
-Larakit\Boot::register_provider(\Larakit\Cmdbackup\LarakitServiceProvider::class);
+Larakit\Boot::register_command(\Larakit\Cmdbackup\CommandBackup::class);
